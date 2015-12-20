@@ -1,0 +1,23 @@
+body {
+	padding: 20px;
+	text-align: center;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+header h1 {
+	font-family: 'Roboto Condensed';
+	font-weight: bold;
+}
+
+ul {
+	display: block;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+ul li {
+	display: inline-block;
+	margin: 0;
+	padding: 10px;
+}
