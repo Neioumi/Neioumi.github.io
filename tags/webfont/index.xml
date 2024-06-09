@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webfont on fromdot</title>
+    <link>http://localhost:1313/tags/webfont/</link>
+    <description>Recent content in Webfont on fromdot</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 14 Dec 2014 22:38:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/webfont/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>無料の日本語webフォント、M&#43; WEB FONTSを使ってみました</title>
+      <link>http://localhost:1313/posts/mplus_webfonts/</link>
+      <pubDate>Sun, 14 Dec 2014 22:38:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/mplus_webfonts/</guid>
+      <description>&lt;p&gt;【要修正／https://mplusfonts.github.io/　Google Fontsの場合、Githubの場合】&lt;/p&gt;&#xA;&lt;h2 class=&#34;my-6 text-slate-500 text-2xl font-bold&#34;&gt;webフォントとしても使える日本語フリーフォント M+WEBFONTS&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;無料で商用としても使える無料のwebフォントを探していたところ、ベーシックで使いやすそうなフォントがありました。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,8 @@
++++
+title = '◆タイトル◆'
+date = '2006-07-22T00:00:00+09:00'
+draft = false
+categories = ['Diary']
+tags = ['Dev', 'fast', 'Blogging']
++++
+◆内容◆
