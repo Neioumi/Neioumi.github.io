@@ -783,6 +783,10 @@ video {
   width: auto;
 }
 
+.w-full {
+  width: 100%;
+}
+
 .min-w-8 {
   min-width: 2rem;
 }
@@ -885,6 +889,10 @@ video {
 
 .border {
   border-width: 1px;
+}
+
+.border-b {
+  border-bottom-width: 1px;
 }
 
 .border-l-8 {
@@ -1066,6 +1074,10 @@ video {
 
 .pt-8 {
   padding-top: 2rem;
+}
+
+.text-left {
+  text-align: left;
 }
 
 .text-center {
