@@ -831,6 +831,14 @@ video {
   flex-basis: 2rem;
 }
 
+.list-decimal {
+  list-style-type: decimal;
+}
+
+.list-disc {
+  list-style-type: disc;
+}
+
 .list-image-none {
   list-style-image: none;
 }
@@ -1046,6 +1054,10 @@ video {
 
 .pl-4 {
   padding-left: 1rem;
+}
+
+.pl-5 {
+  padding-left: 1.25rem;
 }
 
 .pl-6 {
